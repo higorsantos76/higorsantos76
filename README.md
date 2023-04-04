@@ -18,6 +18,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorsantos76&show_icons=true)
 
+<a href="https://github.com/higorsantos76/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorsantos76&repo=github-readme-stats" />
+</a>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="higor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,4 +33,7 @@
 
   <img align="right" alt="higor-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b5/32/67/b53267023f6490aa188a22b9eae92045.jpg">
 </div>
+
+
+
 
