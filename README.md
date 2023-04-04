@@ -17,7 +17,7 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorsantos76&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorsantos76&hide_progress=true)](https://github.com/higorsantos76/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="higor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
