@@ -3,7 +3,7 @@
 
 
 - 🔭 Dev Front-end a procura de  oportunidades
-- 🌱 Estudando html, css, java script e react 
+- 🌱 Estudando html, css, javascript e react 
 - 💬 Contato Email: higorsantos76@hotmail.com 
 
 
