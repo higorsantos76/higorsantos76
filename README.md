@@ -18,10 +18,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorsantos76&show_icons=true)
 
-<a href="https://github.com/higorsantos76/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=higorsantos76&repo=github-readme-stats" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorsantos76&hide_progress=true)](https://github.com/higorsantos76/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
